@@ -28,7 +28,7 @@ public class Main {
         }
         for(int deger: tekrarEdenDizi){
             if(deger!=0){
-                if(deger%2==0){
+                if(deger%2==0){                                     // Bu satırdaki kod, sadece tek sayıların yazdırılmasını sağlar
                     System.out.print(deger+", ");
                 }
 
